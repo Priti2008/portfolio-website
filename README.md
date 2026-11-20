@@ -9,4 +9,4 @@ Contact section
 Mobile navigation
 GitHub link
 Clean animations/hover effects
-GitHub Pages ready
+GitHub Pages ready....
