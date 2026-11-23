@@ -8,5 +8,5 @@ Education section
 Contact section
 Mobile navigation
 GitHub link
-Clean animations/hover effects
+~Clean animations/hover effects
 ~GitHub Pages ready....
